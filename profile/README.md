@@ -8,10 +8,10 @@ This project is still in development. Everything is subject to change.
 ## Playlists
 
 
-![](../showcase/playlists_overview.png)
+![](/showcase/playlists_overview.png)
 
 
 ## Songs and Player
 
 
-![](../showcase/songs_overview.png)
+![](/showcase/songs_overview.png)
