@@ -41,4 +41,4 @@ The current build of the app is currently not available for testing as it's stil
 
 ### Sign-Up
 
-How to sign up for beta testing? Simple, send an email to `saaya@aisys.dev`, subjected `[Saaya Beta]`. Write a short summary of why you want to beta test the application, then end it off with a GitHub username or a personal Mail.
+How to sign up for beta testing? Simple, send an email to `saaya-beta@aisys.dev`, subjected `[Saaya Beta]`. Write a short summary of why you want to beta test the application, then end it off with a GitHub username or a personal Mail.
