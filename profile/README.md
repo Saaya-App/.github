@@ -35,6 +35,12 @@ Example:
 </div>
 
 
+# Feature & Progress Overview
+
+Head over to the [Projects](https://aisys.dev/short?id=aaB) tab to view planned, WIP and done features, as well as a general overview of all features.
+
+
+
 # Beta Testing
 
 The current build of the app is currently not available for testing as it's still in its alpha stages. Once the beta stage has been reached, invitations to test the app will roll out to those who signed up for beta testing.
