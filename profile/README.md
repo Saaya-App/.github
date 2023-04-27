@@ -24,14 +24,14 @@ Example:
 </table>
 
 <div style="text-align: center">
-  <img src="https://raw.githubusercontent.com/Saaya-App/.github/main/profile/showcase/playlists_overview.png"/>
+  <img src="https://raw.githubusercontent.com/Saaya-App/.github/main/profile/showcase/playlists_overview.png" style="width: 500px; height: auto;"/>
 </div>
 
 
 ## Songs and Player
 
 <div style="text-align: center">
-  <img src="https://raw.githubusercontent.com/Saaya-App/.github/main/profile/showcase/songs_overview.png"/>
+  <img src="https://raw.githubusercontent.com/Saaya-App/.github/main/profile/showcase/songs_overview.png" style="width: 500px; height: auto;"/>
 </div>
 
 
