@@ -14,24 +14,24 @@ Saaya supports adding of YouTube playlists. Simply go to your playlist, click Sh
 Example:
 <table style="width: 100%;">
   <tr>
-    <th>Remove</th>
-    <th>Keep</th>
+    <th style="background-color: rgb(255, 200, 200);">Remove</th>
+    <th style="background-color: rgb(200, 255, 200);">Keep</th>
   </tr>
   <tr>
-    <td>https://www.youtube.com/playlist?list=</td>
-    <td>PLK_5lek5Dy...</td>
+    <td style="background-color: rgb(255, 200, 200);">https://www.youtube.com/playlist?list=</td>
+    <td style="background-color: rgb(200, 255, 200);">PLK_5lek5Dy...</td>
   </tr>
 </table>
 
 <div style="text-align: center">
-  <img src="./profile/showcase/playlists_overview.png"/>
+  <img src="[./profile/showcase/playlists_overview.png](https://raw.githubusercontent.com/Saaya-App/.github/main/profile/showcase/playlists_overview.png)"/>
 </div>
 
 
 ## Songs and Player
 
 <div style="text-align: center">
-  <img src="./profile/showcase/songs_overview.png"/>
+  <img src="[./profile/showcase/songs_overview.png](https://raw.githubusercontent.com/Saaya-App/.github/main/profile/showcase/songs_overview.png)"/>
 </div>
 
 
