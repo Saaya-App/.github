@@ -1,6 +1,4 @@
-# Saaya
-
-This project is still in development. Everything is subject to change.
+**This project is still in development. Everything is subject to change.**
 
 <hr>
 
@@ -18,8 +16,8 @@ Example:
     <th style="background-color: rgb(200, 255, 200);">Keep</th>
   </tr>
   <tr>
-    <td style="background-color: rgb(255, 200, 200);">https://www.youtube.com/playlist?list=</td>
-    <td style="background-color: rgb(200, 255, 200);">PLK_5lek5Dy...</td>
+    <td style="color: rgb(255, 200, 200);">https://www.youtube.com/playlist?list=</td>
+    <td style="color: rgb(200, 255, 200);">PLK_5lek5Dy...</td>
   </tr>
 </table>
 
@@ -37,7 +35,7 @@ Example:
 
 # Feature & Progress Overview
 
-Head over to the [Projects](https://aisys.dev/short?id=aaB) tab to view planned, WIP and done features, as well as a general overview of all features.
+Head over to the **[Projects](https://aisys.dev/short?id=aaB)** tab to view planned, WIP and done features, as well as a general overview of all features.
 
 
 
@@ -47,4 +45,4 @@ The current build of the app is currently not available for testing as it's stil
 
 ### Sign-Up
 
-How to sign up for beta testing? Simple, send an email to `saaya-beta@aisys.dev`, subjected `[Saaya Beta]`. Write a short summary of why you want to beta test the application, then end it off with a GitHub username or a personal Mail.
+How to sign up for beta testing? Simple, send an email to **`saaya-beta@aisys.dev`**, subjected **`[Saaya Beta]`**. Write a short summary of why you want to beta test the application, then end it off with a GitHub username or a personal Mail.
