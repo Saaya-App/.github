@@ -16,8 +16,8 @@ Example:
     <th style="background-color: rgb(200, 255, 200);">Keep</th>
   </tr>
   <tr>
-    <td style="background-color: rgb(180, 180, 180); color: rgb(255, 200, 200);">https://www.youtube.com/playlist?list=</td>
-    <td style="background-color: rgb(180, 180, 180); color: rgb(200, 255, 200);">PLK_5lek5Dy...</td>
+    <td>https://www.youtube.com/playlist?list=</td>
+    <td>PLK_5lek5Dy...</td>
   </tr>
 </table>
 
